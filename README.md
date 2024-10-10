@@ -57,7 +57,7 @@ Sample mock data structure:
 ```
 
 ## 📂 Project Structure
-tests/: All test files, including API tests and any other end-to-end tests.
+tests/: All test files, including API tests and any other end-to-end tests.\
 testdata/: JSON files used for mock data to simulate different API responses.
 
 ## 📬 Contributing
